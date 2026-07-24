@@ -339,9 +339,6 @@ body {
     color: var(--text-muted);
 }
 
-/* ==========================================================================
-   STYLE GALERI KANDANG (4 FOTO GRID)
-   ========================================================================== */
    .gallery-section {
     padding: 60px 0;
 }
@@ -369,7 +366,7 @@ body {
 }
 
 .gallery-card:hover img {
-    transform: scale(1.08); /* Efek zoom halus saat kursor menempel */
+    transform: scale(1.08);
 }
 
 .gallery-caption {
